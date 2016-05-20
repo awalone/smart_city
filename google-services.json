@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "aplikasisampah",
+    "project_number": "145774231928",
+    "name": "aplikasiSampah"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145774231928:android:27d689d63f1b7a06",
+        "client_id": "android:com.google.samples.quickstart.signin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.signin",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145774231928-g8lgferrtkmv26mdpv4pm37bjt0116pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.samples.quickstart.signin",
+            "certificate_hash": "65F719B166150905924B2F30071251216F148453"
+          }
+        },
+        {
+          "client_id": "145774231928-5u4qofk7jp8kjmhqmsl0ume7gf8nc6b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

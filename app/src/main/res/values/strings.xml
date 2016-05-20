@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Daeng Sampah</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_user">Nama Pengguna / No.Ktp</string>
+    <string name="mprompt_user">Nama Pengguna</string>
+    <string name="prompt_password">Kata Sandi</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="server_client_id">UJgNypg8QO4q0X2I9LWyNPiE</string>
+    <!-- String Register-->
+    <string name="r_user">Nama Pengguna</string>
+    <string name="r_pass">Kata Sandi</string>
+    <string name="r_pass_ulang">Konfirmasi Kata Sandi</string>
+    <string name="r_ktp">No.KTP</string>
+    <string name="r_email">Email</string>
+    <string name="r_nama">Nama </string>
+    <string name="r_alamat">Alamat</string>
+    <string name="r_telepon">Telepon</string>
+    <string name="daftar">Daftar</string>
+
+
+    <!-- Tab Name-->
+    <string name="lapor">Laporan</string>
+    <string name="lapor_all">Semua Laporan</string>
+    <string name="lapor_map">Peta Laporan</string>
+
+    <!-- Menu Name-->
+    <string name="akun">Pengaturan Akun</string>
+    <string name="artikel">Artikel</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="tentang">Tentang</string>
+    <string name="keluar">Keluar</string>
+
+<string name="ket_artikel1">\tSampah merupakan konsekuensi kehidupan manusia dan sangat berkaitan erat dengan tingginya populasi penduduk. Semakin tinggi jumlah penduduk dan semakin beragam aktivitasnya, maka semakin banyak dan semakin beragam jenis sampah yang dihasilkan. Pada tingkat tertentu, jumlah sampah dan jenisnya menjadi persoalan sosial yang rumit.\n
+     \tSecara umum, sampah dipahami oleh masyarakat sebagai tumpukan limbah dengan aroma busuk yang sangat menyengat. Karena itu, sampah diartikan sebagai material sisa yang tidak diinginkan setelah berakhirnya suatu proses kehidupan dengan sifat yang cenderung merusak lingkungan sekitarnya. Cara pandang masyarakat seperti ini tentu saja tidak komprehensif karena sampah tidak hanya berarti seperti itu. Sampah juga berarti produk-produk yang dihasilkan setelah dan selama proses alam berlangsung. Karena itu, sampah tidak harus berkonotasi negatif. Hal ini sangat bergantung pada pengelolaannya.
+     \tMenurut Undang-Undang Nomor 18 Tahun 2008 tentang pengelolaan sampah, sampah adalah sisa kegiatan sehari-hari manusia dan/atau proses alam yang berbentuk padat ([Menlh 2008]).\n
+     \tMenurut Soemandi sampah ialah semua jenis benda atau barang bangunan/kotoran manusia, hewan, atau tumbuh-tumbuhan atau yang berasal dari aktivitas kehidupan manusia dalam memenuhi kebutuhan hidupnya yang dapat menimbulkan dan atau mengakibatkan pengotoran terhadap air, tanah dan udara sehingga dapat menimbulkan pengerusakan lingkungan hidup manusia [(Soemandi 2008)].\n
+     \tMenurut Kamus Lingkungan dalam Basriyanta sampah adalah bahan yang tidak mempunyai nilai atau tidak berharga untuk digunakan secara biasa atau khusus dalam produksi atau pemakaian; barang rusak atau cacat selama manufaktur atau materi berkelebihan atau buangan ([Basriyanta 2007]).</string>
+
+    <string name="ket_artikel2">\tKota Makassar dengan luas wilayah 181,4 km2 yang terdiri dari 14 kecamatan dan 143 desa/kelurahan, dihuni oleh penduduk sebanyak 1.338.663 jiwa. Jumlah ini mencakup mereka yang bertempat tinggal di daerah perkotaan sebanyak 1.331.391 jiwa atau 99,46 persen dan di daerah perdesaan sebanyak 7.272 jiwa atau 0,54 persen. Persentase distribusi penduduk menurut kecamatan bervariasi dari yang terendah sebesar 2,03 persen di Kecamatan Ujung Pandang hingga yang tertinggi sebesar 12,69 persen di Kecamatan Tamalate ([Badan Pusat Statistik 2015]).\n
+     \tCatatan tahun 2013 menyebutkan bahwa kota Makassar mampu menghasilkan sampah sampai 500 ton perhari. Sedangkan pada tahun 2014 sampah yang dihasilkan mencapai 600 ton perhari ([Kasim 2014]). Data tersebut memperlihatkan adanya peningkatan volume sampah di kota Makassar.\n
+     \tMeningkatnya volume sampah di kota Makassar saat ini tidak terlepas dari beberapa faktor, seperti keterbatasan biaya operasional, sarana dan prasarana yang kurang memadai, serta sulitnya Dinas Pertamanan dan Kebersihan dalam memperoleh data tumpukan sampah sehingga memperlambat proses pengangkutan sampah. Tercatat tempat pembuangan sampah sementara (TPS) yang disediakan berupa kontainer sebanyak 336 unit, armada pengangkut sampah sebanyak 97 armada yang terdiri dari truk dan motor roda tiga yang tersebar di 14 kecamatan ([Dinas Pertamanan dan Kebersihan Kota Makassar 2015]).\n
+     \tPersoalan sampah juga melahirkan pemandangan yang tidak elok, seperti yang terlihat adanya sampah yang menumpuk sejauh kurang lebih 80 meter di bahu jalan Aroepala yang tentunya membuat bahu jalan mengalami penyempitan. Persoalan serupa juga terjadi di jalan A. P. Pettarani, di sepanjang Jl. Toddopuli Timur, dan Borong Raya Makassar di mana sampah comberan dari got berserakan yang mengganggu aktivitas warga setempat ([Saldy 2014]).\n
+     \tUpaya strategis yang dilakukan oleh Pemerintah Kota Makassar dalam mengatasi  persoalan  sampah  adalah  dengan mendorong partisipasi masyarakat untuk berperan aktif dalam melakukan pengaduan sampah yang ada di sekitarnya. Pada tahun 2014, diluncurkan program “Makassar Tidak Rantasa” di kota Makassar. Program ini merupakan program yang digagas oleh Pemerintah Kota Makassar Dani Poemanto, di bawah pimpinan Gubernur Sulawesi Selatan. Program ini diluncurkan dengan tujuan untuk mengatasi permasalahan-permasalahan yang ada di kota Makassar salah satunya adalah persoalan sampah.\n
+     \tMenurut Kepala Sub Bagian Umum dan Kepegawaian Dinas Pertamanan dan Kebersihan Kota Makassar, dalam rangka mengimplementasikan kebijakan tersebut, maka penanganan sampah sepenuhnya menjadi tanggung jawab kecamatan dan desa/kelurahan masing-masing. Sedangkan fungsi utama dari Dinas Pertamanan dan Kebersihan adalah mendapatkan informasi, mengontrol serta memonitoring kinerja dari kecamatan dan desa/kelurahan dalam hal penanganan sampah yang ada di Kota Makassar.
+</string>
+
+    <string name="head_bantuan">Layanan lokasi Google atau layanan Satelit GPS</string>
+    <string name="bantuan_isi">1. Pada perangkat seluler, sentuh Setelan*, lalu sentuh Layanan lokasi*.\n2. Centang kotak Lokasi layanan Google untuk mengaktifkannya. Atau hapus centang untuk onaktifkannya.\n3. Centang kotak Satelit GPS untuk mengaktifkannya. Atau hapus centang untuk menonaktifkannya.\n4. Jika Satelit GPS diaktifkan, Anda akan melihat ikon status GPS di bagian atas layar perangkat seluler</string>
+
+
+    <string name="tentang_isi">\tAplikasi ini dibuat untuk mempermudah masyarakat dalam menyampaikan keluhan terhadap masalah lingkungan khususnya masalah sampah yang ada sekitarnya. Selain itu, aplikasi ini tentu saja bisa membantu atau menyukseskan fungsi dari dinas Pertamanan dan Kebersihan Kota Makassar dalam memonitoring penyebaran sampah di ibukota sehingga penanganan sampah dapat ditangani dengan cepat.</string>
+    <string name="author">Andi Jumardi\nMagister Ilmu Komputer\nUniversitas Budi Luhur (UBL) Jakarta\n2015</string>
+
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="title_activity_splash">splash</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
